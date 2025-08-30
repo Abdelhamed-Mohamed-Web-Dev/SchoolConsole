@@ -1,7 +1,7 @@
-﻿using C_Task01.Models;
+﻿using SchoolConsole.Models;
 using System.Text.Json;
 
-namespace C_Task01
+namespace SchoolConsole
 {
 	internal static class Helper
 	{

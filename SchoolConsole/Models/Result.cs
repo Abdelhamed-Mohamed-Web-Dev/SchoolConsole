@@ -1,4 +1,4 @@
-﻿namespace C_Task01.Models
+﻿namespace SchoolConsole.Models
 {
     internal class Result : Base
     {

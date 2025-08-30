@@ -1,4 +1,4 @@
-﻿namespace C_Task01.Repositories
+﻿namespace SchoolConsole.Repositories
 {
 	internal class ResultRepository : IResultRepository
 	{

@@ -1,4 +1,4 @@
-﻿namespace C_Task01.IRepositories
+﻿namespace SchoolConsole.IRepositories
 {
 	internal interface ICSVRepository
 	{
