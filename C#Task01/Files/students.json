@@ -1,0 +1,16 @@
+[
+  {
+    "Level": 3,
+    "GPA": 3.4,
+    "Name": "Mohamed",
+    "Email": "Mohamed@gmail.com",
+    "Id": 0
+  },
+  {
+    "Level": 2,
+    "GPA": 3.8,
+    "Name": "Ali",
+    "Email": "Ali@gmail.com",
+    "Id": 1
+  }
+]
