@@ -1,0 +1,15 @@
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\bin\Debug\net8.0\SchoolConsole.exe
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\bin\Debug\net8.0\SchoolConsole.deps.json
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\bin\Debug\net8.0\SchoolConsole.runtimeconfig.json
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\bin\Debug\net8.0\SchoolConsole.dll
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\bin\Debug\net8.0\SchoolConsole.pdb
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.AssemblyInfoInputs.cache
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.AssemblyInfo.cs
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.csproj.CoreCompileInputs.cache
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.sourcelink.json
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.dll
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\refint\SchoolConsole.dll
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.pdb
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\SchoolConsole.genruntimeconfig.cache
+D:\DEPI_Assignments\C#\SchoolConsole\SchoolConsole\obj\Debug\net8.0\ref\SchoolConsole.dll
